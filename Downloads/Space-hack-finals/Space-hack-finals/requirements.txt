@@ -9,3 +9,4 @@ scikit-learn
 streamlit
 tensorflow
 uvicorn
+streamlit-autorefresh
