@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "placements": [
+      {
+        "itemId": "002",
+        "containerId": "contB",
+        "position": {
+          "startCoordinates": {
+            "width": 0,
+            "depth": 0,
+            "height": 0
+          },
+          "endCoordinates": {
+            "width": 15,
+            "depth": 15,
+            "height": 50
+          }
+        }
+      },
+      {
+        "itemId": "003",
+        "containerId": "contC",
+        "position": {
+          "startCoordinates": {
+            "width": 0,
+            "depth": 0,
+            "height": 0
+          },
+          "endCoordinates": {
+            "width": 17,
+            "depth": 24,
+            "height": 26
+          }
+        }
+      },
+      {
+        "itemId": "001",
+        "containerId": "contA",
+        "position": {
+          "startCoordinates": {
+            "width": 0,
+            "depth": 0,
+            "height": 0
+          },
+          "endCoordinates": {
+            "width": 10,
+            "depth": 10,
+            "height": 20
+          }
+        }
+      },
+      {
+        "itemId": "004",
+        "containerId": "contD",
+        "position": {
+          "startCoordinates": {
+            "width": 0,
+            "depth": 0,
+            "height": 0
+          },
+          "endCoordinates": {
+            "width": 12,
+            "depth": 29,
+            "height": 22
+          }
+        }
+      },
+      {
+        "itemId": "005",
+        "containerId": "contE",
+        "position": {
+          "startCoordinates": {
+            "width": 0,
+            "depth": 0,
+            "height": 0
+          },
+          "endCoordinates": {
+            "width": 23,
+            "depth": 15,
+            "height": 29
+          }
+        }
+      }
+    ],
+    "rearrangements": []
+  }
+  

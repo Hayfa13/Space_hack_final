@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "newDate": "2025-04-18",
+    "changes": {
+        "itemsUsed": [
+            {
+                "itemId": "001",
+                "name": "Food Packet",
+                "remainingUses": 29
+            },
+            {
+                "itemId": "002",
+                "name": "Oxygen Cylinder",
+                "remainingUses": 97
+            }
+        ],
+        "itemsExpired": [],
+        "itemsDepletedToday": []
+    }
+}

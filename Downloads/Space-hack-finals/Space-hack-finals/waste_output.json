@@ -1,0 +1,4 @@
+{
+    "wasteItems": [],
+    "note": "Items with expiryDate before 2025-06-01 considered waste."
+}
